@@ -1,1 +1,1 @@
-postgres://postgres.ovmlnkcqsteigvfzwacj:39H3K97S3Imi2GVF@aws-0-us-west-1.pooler.supabase.com:5432/postgres
+postgres://wawkxvca:UGvzdmlfYkKPOVS2-8se8aMehfmbtlOW@motty.db.elephantsql.com/wawkxvca
